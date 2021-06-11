@@ -7,7 +7,7 @@
     "name": "softsetu",
     "email": "admin@softsetu.com"
   },
-  "repository": "softsetu-doc/doc",
+  "repository": "softsetu-doc",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"

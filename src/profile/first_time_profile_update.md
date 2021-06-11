@@ -49,10 +49,10 @@
 <img :src="$withBase('/images/PDF IMAGES/PROFILE UPDATE PROCESS/FIRST TIME PROFILE-SYNOPSIS UPDATE/REVIEW SYNOPSIS.png')" alt="softsetu" class="image-style" />
 
 
-## Step 3.1.9 : Dashboard Screen
+<!-- ## Step 3.1.9 : Dashboard Screen
 
 ### Dashboard Screen Look Like This
 
-<img :src="$withBase('/images/PDF IMAGES/PROFILE UPDATE PROCESS/FIRST TIME PROFILE-SYNOPSIS UPDATE/HOME Synopsis.png')" alt="softsetu" class="image-style" />
+<img :src="$withBase('/images/PDF IMAGES/PROFILE UPDATE PROCESS/FIRST TIME PROFILE-SYNOPSIS UPDATE/Agent Home.png')" alt="softsetu" class="image-style" /> -->
 
 <!-- ------------------------------------------------------------------------------------------------------- -->

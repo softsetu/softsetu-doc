@@ -9,7 +9,7 @@ module.exports = {
     plugins: ['@vuepress/last-updated'],
     themeConfig: {
         logo: '/images/pink-sslogo.png',
-        searchMaxSuggestions: 10,
+        searchMaxSuggestions: 5,
         searchPlaceholder: 'Search Here...',
         // search: false,
         // searchMaxSuggestions: 10,
