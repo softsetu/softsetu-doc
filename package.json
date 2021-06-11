@@ -1,0 +1,24 @@
+{
+  "name": "doc",
+  "version": "0.0.1",
+  "description": "Softsetu Documentation",
+  "main": "index.js",
+  "authors": {
+    "name": "softsetu",
+    "email": "admin@softsetu.com"
+  },
+  "repository": "softsetu-doc/doc",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^0.14.11",
+    "vuepress-plugin-loading-overlay": "^0.1.0"
+  },
+  "dependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "vuepress-plugin-tags": "^1.0.2"
+  }
+}
